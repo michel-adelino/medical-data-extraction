@@ -7,7 +7,6 @@ Also this project involved creation of a backend server which will process data 
 
 https://github.com/abhijeetk597/medical-data-extraction/assets/138308825/3d5d90e8-2858-4831-b1d5-97a3874f256c
 
-## [Click here to see project presentation](https://youtu.be/xh0livz2tSY)
 
 ## Overview
 
@@ -81,10 +80,10 @@ Though I have been learning Data Science, then why am I doing this project? Main
 
 Explore notebooks and source code of this project.
 
-- Notebook 1: [Prescription_parser](https://github.com/abhijeetk597/medical-data-extraction/blob/main/Notebooks/01_prescription_parser.ipynb)
-- Notebook 2: [Patient_details_parser](https://github.com/abhijeetk597/medical-data-extraction/blob/main/Notebooks/02_patient_details_parser.ipynb)
-- Backend: [Source code directory](https://github.com/abhijeetk597/medical-data-extraction/tree/main/backend/src)
-- Frontend: [Streamlit app](https://github.com/abhijeetk597/medical-data-extraction/blob/main/frontend/app.py)
+- Notebook 1: [Prescription_parser](Notebooks/01_prescription_parser.ipynb)
+- Notebook 2: [Patient_details_parser](Notebooks/02_patient_details_parser.ipynb)
+- Backend: [Source code directory](backend/src)
+- Frontend: [Streamlit app](frontend/app.py)
 
 ## <a name="a5">5. What did I learn through this project?</a>
 
@@ -158,7 +157,6 @@ medical-data-extraction
   - [Tesseract installation instrution : Github](https://github.com/tesseract-ocr/tesseract#installing-tesseract)
   - [Tesseract windows specific instructions: Github](https://github.com/UB-Mannheim/tesseract/wiki)
 - Set required PATHs as per your environment
-  > [Demo video to clone and run this project in your machine.](https://youtu.be/UWmOePHzePM)
 - Update: Now you will have to link you db for storing data. Python code updated accordingly, and script for creation of db table and SPs is uploaded in the repo.
 
 ## <a name="a9">9. 🚀 Update 1: Store data into MySQL DB after verification in UI</a>
